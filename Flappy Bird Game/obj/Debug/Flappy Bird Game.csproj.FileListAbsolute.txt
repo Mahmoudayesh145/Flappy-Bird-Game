@@ -1,0 +1,38 @@
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe.config
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.exe
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\Flappy Bird Game.pdb
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.AssemblyReference.cache
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Properties.Resources.resources
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.GenerateResource.cache
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.CoreCompileInputs.cache
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.pdb
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.MainPage.resources
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Hint.resources
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.exe.config
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Form4.resources
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Asio.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Core.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Midi.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Wasapi.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.WinForms.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.WinMM.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\System.Security.AccessControl.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Asio.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Core.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Midi.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.Wasapi.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.WinForms.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\NAudio.WinMM.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\System.Security.AccessControl.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy B.20607ACE.Up2Date
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.Score.resources
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy Bird Game.csproj.ResolveComReference.cache
+C:\Users\AFAQE\Desktop\courses\New folder\Flappy Bird Game\Flappy Bird Game\obj\Debug\Flappy_Bird_Game.gameover.resources
